@@ -2,6 +2,9 @@
 
 > **🚧 Status: v0.5 (Active)** > This repository is my personal scratchpad, digital garden, and "learning in public" workspace. It is where I document messy experiments, summarize academic papers, and store reusable code snippets before they graduate to production repositories.
 
+## 📢 Latest Updates
+* **07 May 2026:** Added a summary and deep dive into [Rhetorical Structure Theory (1992)](./03-concepts/rhetorical-structure-theory.md).
+
 ## 🧠 Philosophy
 This repo operates on the principle of **Trunk-Based Knowledge Management**. 
 It is optimized for VS Code, relative markdown links, and global search. There are no complex tagging trees or nested folder labyrinths. If it is a thought, a theory, or a test, it lives here.
