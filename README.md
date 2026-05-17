@@ -4,8 +4,8 @@
 
 ## 📢 Latest Updates
 
-* **07 May 2026:** Added a summary and deep dive into [Rhetorical Structure Theory (1992)](./rst/03-concepts/rhetorical-structure-theory.md).
-* **17 May 2026:** Added a comparative analysis of EDU segmentation in classic RST vs. [GUM/eRST through a Systemic Functional Linguistics lens in Construing EDUs: An SFL Perspective on RST Parsing](./rst/03-concepts/construing-edus-an-sfl-perspective-on-rst-parsing.md).
+* **07 May 2026:** Added a summary and deep dive into [Rhetorical Structure Theory (1992)](./03-concepts/rst/rhetorical-structure-theory.md).
+* **17 May 2026:** Added a comparative analysis of EDU segmentation in classic RST vs. [GUM/eRST through a Systemic Functional Linguistics lens in Construing EDUs: An SFL Perspective on RST Parsing](./03-concepts/rst/construing-edus-an-sfl-perspective-on-rst-parsing.md).
 
 ## 🧠 Philosophy
 
